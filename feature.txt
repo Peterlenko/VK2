@@ -1,2 +1,2 @@
-This is a new feature
-Adding more details to the feature.txt
+This is a new feature for merging
+This feature needs more detail
